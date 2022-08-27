@@ -32,4 +32,45 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 ![Radviz Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/RadvizPlot.PNG)
 
-##Hyperparameter tuning and cross validation results
+## Hyperparameter tuning and cross validation results
+### Random Forest scores for GridearchCV
+--Few predictions--
+
+array([1, 0, 0, 0])
+
+Accuracy Score : 68.02835921674544
+
+--Confusion Matrix--
+
+array([[11065,  2167,  1623],
+       [  824,   775,   868],
+       [   91,   109,   250]])
+
+F1 Score : 0.7322726999126774
+
+### Decision Tree Scores for GridSearchCV
+--Few predictions--  
+  
+array([1, 0, 0, 0])  
+  
+Accuracy Score : 64.78730587440918  
+  
+--Confusion Matrix--  
+  
+array([[10458,  2399,  1998],  
+       [  730,   800,   937],  
+       [   84,   110,   256]])  
+  
+F1 Score : 0.7111662284833571  
+  
+### Random Forest Scores for RandomSearchCV  
+  
+Best score: 0.6813296245275972  
+Accuracy: 68.02835921674544  
+f1 score: 0.7319591218626418  
+  
+### Decision Tree Scores for RandomSearchCV  
+  
+Best score: 0.6626057685759401  
+Accuracy: 66.21089354040063  
+f1 score: 0.7182499927132402  
