@@ -23,3 +23,13 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 ![Box Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot3.PNG)
 
 ![Bar Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot4.PNG)
+
+### Structure in data
+
+![Parallel Coordinate Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/Parallel%20plot.PNG)
+
+![Andrews Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/AndrewsPlot.PNG)
+
+![Radviz Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/RadvizPlot.PNG)
+
+##Hyperparameter tuning and cross validation results
