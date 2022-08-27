@@ -16,3 +16,10 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 ## Insights
 
+![Line Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot1.PNG)
+
+![Scatter Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot2.PNG)
+
+![Box Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot3.PNG)
+
+![Bar Plot](https://github.com/ArunitaYen/Classification_Hyperparameter/blob/main/Damaged%20Crop%20Classification/img/plot4.PNG)
