@@ -19,7 +19,7 @@
 
 
 
-*Without oversampling*   
+*Without oversampling and feature generation*   
 
 
 > **Random Forest**  
@@ -48,7 +48,7 @@ f1 score: 0.7182499927132402
 
 
 
-*Without oversampling*   
+*Without oversampling and feature generation*   
 
 
 > **Random Forest**  
